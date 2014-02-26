@@ -1,16 +1,22 @@
 CrashlyticsFramework
 ====================
 
-This contains the great Crashlytics Framework to be linked as a CocoaPod
+**The most powerful, yet lightest weight crash reporting solution for iOS and Android developers. | Crashlytics**
 
-## Usage
+## Reason
+*The reason for making this repo was that the Crashlytics framework is not directly available for download anywhere and it's super easy to integrate it via Cocoapods*
 
+## Usage via CocoaPods
 ``` ruby
 pod 'CrashlyticsFramework', :git => "https://github.com/bpoplauschi/CrashlyticsFramework.git"
 ```
 
+## License
+- [Crashlytics - Terms of Use](http://try.crashlytics.com/terms/terms-of-use.pdf)
+- [Crashlytics - Privacy Policy](http://try.crashlytics.com/terms/privacy-policy.pdf)
+- [Crashlytics - Open Source licenses](http://try.crashlytics.com/terms/opensource.txt)
 
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bpoplauschi/crashlyticsframework/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+## Contact
+- [Crashlytics homepage](crashlytics.com)
+- [Crashlytics blog](http://www.crashlytics.com/blog/)
+- [Crashlytics support](http://support.crashlytics.com/knowledgebase)
