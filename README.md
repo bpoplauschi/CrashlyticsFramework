@@ -8,7 +8,7 @@ CrashlyticsFramework
 
 ## Usage via CocoaPods
 ``` ruby
-pod 'CrashlyticsFramework', :git => "https://github.com/bpoplauschi/CrashlyticsFramework.git"
+pod 'CrashlyticsFramework'
 ```
 
 ## License
