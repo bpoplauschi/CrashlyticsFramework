@@ -13,5 +13,4 @@ before_install:
 script:
     - pod lib lint
     - cd Example/CrashlyticsFrameworkTest
-    - pod update
     - xcodebuild -project CrashlyticsFrameworkTest.xcodeproj -scheme 'CrashlyticsFrameworkTest' -sdk iphonesimulator clean build | xcpretty -c; exit ${PIPESTATUS[0]}
