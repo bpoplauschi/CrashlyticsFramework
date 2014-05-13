@@ -397,7 +397,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/shark/Projects/CrashlyticsFramework,
+					../../,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CrashlyticsFrameworkTest/CrashlyticsFrameworkTest-Prefix.pch";
@@ -414,7 +414,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/shark/Projects/CrashlyticsFramework,
+					../../,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CrashlyticsFrameworkTest/CrashlyticsFrameworkTest-Prefix.pch";
@@ -483,6 +483,7 @@
 				DA38A72E19210E970037944F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DA38A72F19210E970037944F /* Build configuration list for PBXNativeTarget "CrashlyticsFrameworkTestTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				DA38A73119210E970037944F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
