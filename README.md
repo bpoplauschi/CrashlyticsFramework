@@ -1,5 +1,9 @@
 CrashlyticsFramework
 ====================
+[![Build Status](http://img.shields.io/travis/bpoplauschi/CrashlyticsFramework/master.svg?style=flat)](https://travis-ci.org/bpoplauschi/CrashlyticsFramework)
+[![Pod Version](http://img.shields.io/cocoapods/v/CrashlyticsFramework.svg?style=flat)](http://cocoadocs.org/docsets/CrashlyticsFramework/)
+[![Pod Platform](http://img.shields.io/cocoapods/p/CrashlyticsFramework.svg?style=flat)](http://cocoadocs.org/docsets/CrashlyticsFramework/)
+[![Pod License](http://img.shields.io/cocoapods/l/CrashlyticsFramework.svg?style=flat)](http://try.crashlytics.com/terms/terms-of-use.pdf)
 
 **The most powerful, yet lightest weight crash reporting solution for iOS and Android developers. | Crashlytics**
 
