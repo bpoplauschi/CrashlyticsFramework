@@ -18,7 +18,7 @@ pod 'CrashlyticsFramework'
 *Note: the path you should use for the `run` script is `./Pods/CrashlyticsFramework/Crashlytics.framework/run`*
 
 ## License
-- [Crashlytics - Terms of Use](http://try.crashlytics.com/terms/terms-of-use.pdf)
+- [Crashlytics - Terms of Use](http://try.crashlytics.com/terms/terms-of-service.pdf)
 - [Crashlytics - Privacy Policy](http://try.crashlytics.com/terms/privacy-policy.pdf)
 - [Crashlytics - Open Source licenses](http://try.crashlytics.com/terms/opensource.txt)
 

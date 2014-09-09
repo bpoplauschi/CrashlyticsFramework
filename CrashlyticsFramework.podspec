@@ -4,30 +4,8 @@ Pod::Spec.new do |s|
   s.summary      = "The most powerful, yet lightest weight crash reporting solution for iOS and Android developers. | Crashlytics"
   s.homepage     = "http://crashlytics.com"
   s.license      = { 
-    :type => 'Copyright', 
-    :file => 'http://try.crashlytics.com/terms/terms-of-use.pdf',
-    :text => <<-LICENSE
-      CRASHLYTICS, INC. TERMS OF SERVICE Last Updated: January 28, 2013 
- 
-      The following Crashlytics, Inc. Terms of Service (“Terms” or 
-      “Agreement”) constitutes a legal agreement between you and the entity on whose 
-      behalf you are accessing the Service (as defined below) (“Developer”) and Crashlytics, 
-      Inc., a wholly owned subsidiary of Twitter, Inc. (“Crashlytics”). Developer’s use of the 
-      Service is subject to the terms and conditions set forth below, so Developer should take 
-      the time to fully understand how these Terms govern Developer’s relationship with 
-      Crashlytics and Developer’s use of the Service. If you have questions regarding the 
-      Terms, please contact Crashlytics at support@crashlytics.com. 
-      DEVELOPER’S RIGHT TO USE THE SERVICE IS EXPRESSLY CONDITIONED ON 
-      ACCEPTANCE OF THESE TERMS. BY USING THE SERVICE, YOU ARE AGREEING 
-      TO BE BOUND BY THE TERMS ON BEHALF OF DEVELOPER. IF YOU ARE 
-      ACCESSING THE SERVICE ON BEHALF OF YOUR EMPLOYER OR ANOTHER 
-      ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE AUTHORITY TO 
-      AGREE TO THESE TERMS ON ITS BEHALF. IF DEVELOPER DOES NOT AGREE 
-      WITH ANY PROVISION OF THE TERMS, OR YOU DO NOT HAVE AUTHORITY TO 
-      BIND DEVELOPER, YOU MAY NOT ACCESS OR USE THE SERVICE IN ANY 
-      MANNER FOR ANY PURPOSE.
-
-      LICENSE
+    :type => 'Copyright',
+    :file => 'LICENSE' # Copied from http://try.crashlytics.com/terms/terms-of-service.pdf
   }
   s.author       = 'Crashlytics'
   s.source       = { :git => "https://github.com/bpoplauschi/CrashlyticsFramework.git", :tag => s.version.to_s }
