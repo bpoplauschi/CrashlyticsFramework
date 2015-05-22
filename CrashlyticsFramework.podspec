@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     :file => 'LICENSE' # Copied from http://try.crashlytics.com/terms/terms-of-service.pdf
   }
   s.author       = 'Crashlytics'
-  s.source       = { :git => "https://github.com/bpoplauschi/CrashlyticsFramework.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/fnxpt/CrashlyticsFramework.git", :tag => s.version.to_s }
   s.platform     = :ios, '5.0'
   s.source_files = 'Crashlytics.framework/Headers/*.h', 'Fabric.framework/Headers/*.h'
   s.requires_arc = true
