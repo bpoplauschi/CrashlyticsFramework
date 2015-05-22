@@ -13,6 +13,4 @@ Pod::Spec.new do |s|
   s.source_files = 'Crashlytics.framework/Headers/*.h', 'Fabric.framework/Headers/*.h'
   s.requires_arc = true
   s.ios.vendored_frameworks = 'Crashlytics.framework', 'Fabric.framework'
-  s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '$(inherited)' }
-  s.preserve_paths = 'Crashlytics.framework', 'Fabric.framework'
 end
