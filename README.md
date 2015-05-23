@@ -15,7 +15,7 @@ CrashlyticsFramework
 pod 'CrashlyticsFramework'
 ```
 
-*Note: the path you should use for the `run` script is `./Pods/CrashlyticsFramework/Crashlytics.framework/run`*
+*Note: the path you should use for the `run` script is `./Pods/CrashlyticsFramework/Fabric.framework/run`*
 
 ## License
 - [Crashlytics - Terms of Use](http://try.crashlytics.com/terms/terms-of-service.pdf)
