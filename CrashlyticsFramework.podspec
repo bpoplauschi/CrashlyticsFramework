@@ -15,4 +15,5 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'Crashlytics.framework'
   s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '$(inherited)' }
   s.preserve_paths = 'Crashlytics.framework'
+  s.deprecated_in_favor_of = 'Crashlytics'
 end
